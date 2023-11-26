@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "ttbhanh",
-    "password": "5u89vX7AhNbF2hmIFrOitKoTcAA0HV3N",
-    "database": "tuandb",
-    "host": "dpg-clfb5a7jc5ks73e5n3n0-a.oregon-postgres.render.com",
+    "username": "psdat123",
+    "password": "q5yad9IwUngYpd2O8VdXRHtRvYckMx1F",
+    "database": "db_0vwm",
+    "host": "dpg-clfek5d8td7s73b9bgi0-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
